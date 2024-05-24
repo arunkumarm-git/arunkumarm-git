@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data and ML
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on chess-related stuff
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/arun-kumar--m/) , [Instagram](https://www.instagram.com/_iamarunkumar_/) , [My portfolio]([url](https://arunkumarm-git.github.io/))
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/arun-kumar--m/) , [Instagram](https://www.instagram.com/_iamarunkumar_/) , [Portfolio](https://arunkumarm-git.github.io/)
 
 <!---
 arunmass-git/arunmass-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
