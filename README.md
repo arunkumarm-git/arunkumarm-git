@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 I’m currently working on [AI chess arbiter](https://aichessarbiter.streamlit.app/)
+- 🔭 I’m currently working on [AI_chess_arbiter](https://aichessarbiter.streamlit.app/)
 
 - 🌱 I’m currently learning **GANs, AWS**
 
