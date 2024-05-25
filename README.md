@@ -5,13 +5,13 @@
 <img align="right"  src="https://iili.io/JsExfKg.md.png">
 - ♟️ I'm the founder of [Vibe with chess](https://vibewithchess.com/)
 
-- 🔭 I’m currently working on [AI chess arbiter](https://aichessarbiter.streamlit.app/)
-
 - 🌱 I’m currently learning **GANs, AWS**
+
+- 🔭 I’m currently working on [AI chess arbiter](https://aichessarbiter.streamlit.app/)
 
 - 👯 I’m looking to collaborate on **Data science, Generative AI-related projects**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://arunkumarm-git.github.io/)
+- 👨‍💻 All of my projects are available at [https://arunkumarm-git.github.io/](https://arunkumarm-git.github.io/)
 
 - 💬 Ask me about **LLM**
 
