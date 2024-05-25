@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align="right"  src="https://iili.io/JsExfKg.md.png">
-- ♟️ I'm the founder of [vibe](https://vibewithchess.com/)
+- ♟️ I'm the founder of [GitHub Pages](https://pages.github.com/)
 
 - 🔭 I’m currently working on [AI chess arbiter](https://aichessarbiter.streamlit.app/)
 
