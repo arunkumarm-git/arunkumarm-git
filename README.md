@@ -4,6 +4,8 @@
 
 <img align="right"  src="https://iili.io/JsExfKg.md.png">
 
+<img align="right" src="https://iili.io/JssAkRR.gif" alt="JssAkRR.gif" border="0">
+
 - ♟️ I'm the founder of [Vibe with chess](https://vibewithchess.com/)
 
 - 🌱 I’m currently learning **GANs, AWS**
