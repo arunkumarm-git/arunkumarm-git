@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **LLM**
 
-- 📫 How to reach me **marunkumar1601@gmail.com**
+- 📫 How to reach me **marunkumar.datascientist@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
