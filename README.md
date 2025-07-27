@@ -34,7 +34,7 @@ class ArunKumar:
         self.building = ["AI Chess Arbiter", "Mars Orbital Image Classification"]
         self.collaborating_on = ["Generative AI", "Data Science Projects"]
         self.expertise = ["LLM", "Computer Vision", "Deep Learning", "RAG Systems"]
-        self.achievements = ["National Chess Silver Medalist", "Top 18% Kaggle ML Tournament"]
+        self.achievements = ["National Chess Silver Medalist (2019)", "Chennai District Chess Champ (2019)"]
         
     def get_contact(self):
         return "marunkumar.datascientist@gmail.com"
