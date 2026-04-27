@@ -1,232 +1,266 @@
-# 🚀 Arun Kumar | Data Scientist & AI Innovator
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer;Machine+Learning+Enthusiast;Chess+%26+Code+Lover;Turning+Data+into+Insights" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="AI Banner"/>
+# ⬡ ARUN KUMAR M
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=00FFC8&center=true&vCenter=true&width=580&lines=Data+Scientist+%7C+AI+Engineer;Data+Engineer+%7C+ML+Researcher;Chess+Champion+%7C+Code+Architect;Turning+Raw+Data+into+Refined+Insight" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=00FFC8)](https://arunkumarm-git.github.io/)
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/arun-kumar--m)
+[![Gmail](https://img.shields.io/badge/◈_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:marunkumar.datascientist@gmail.com)
+[![Kaggle](https://img.shields.io/badge/◈_Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://kaggle.com/arun_mass)
+[![HackerRank](https://img.shields.io/badge/◈_HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/arunkumar___m)
+
 </div>
 
 ---
 
-## 🎯 About Me
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-> *"In the world of data, every pattern tells a story, and every algorithm is a step closer to the future."*
-
-🔬 **Passionate Data Scientist** from India, transforming raw data into actionable insights  
-🎓 **M.Sc. Data Science** @ VIT Chennai (CGPA: 8.67/10) | **B.E. EEE** (CGPA: 7.90/10)  
-♟️ **Founder** of [Vibe with Chess](https://vibewithchess.com/) - Where strategy meets technology  
-🏆 **National Silver Medalist** in Chess (SGFI 2019) | **Chennai District Champion**  
-🤖 **AI Chess Arbiter** creator - Building the future of chess analysis  
-📊 **Portfolio**: [arunkumarm-git.github.io](https://arunkumarm-git.github.io/)
-
----
-
-## 🔥 Current Focus
+## `whoami`
 
 ```python
 class ArunKumar:
     def __init__(self):
-        self.name = "Arun Kumar"
-        self.role = "Data Scientist & AI Engineer"
-        self.learning = ["GANs", "AWS Cloud Architecture", "MLOps"]
-        self.building = ["AI Chess Arbiter", "Mars Orbital Image Classification"]
-        self.collaborating_on = ["Generative AI", "Data Science Projects"]
-        self.expertise = ["LLM", "Computer Vision", "Deep Learning", "RAG Systems"]
-        self.achievements = ["National Chess Silver Medalist (2019)", "Chennai District Chess Champ (2019)"]
-        
+        self.name        = "Arun Kumar M"
+        self.role        = "Data Scientist & AI/Data Engineer"
+        self.education   = "M.Sc. Data Science @ VIT Chennai (CGPA: 8.73)"
+        self.location    = "Chennai, India 🇮🇳"
+        self.expertise   = [
+            "LLMs & RAG Systems",
+            "Computer Vision",
+            "Data Engineering",
+            "Deep Learning",
+        ]
+        self.learning    = [
+            "GANs",
+            "Databricks",
+            "Spark & Lakehouse Architecture",
+        ]
+        self.building    = [
+            "Zero AI — Synthetic Media Detector",
+            "AI Chess Arbiter",
+        ]
+        self.chess       = "National Silver Medalist ♟️ | Chennai District Champion"
+
     def get_contact(self):
         return "marunkumar.datascientist@gmail.com"
 ```
 
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-
-### 📊 Data Science Stack
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎨 Web & Design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+<br clear="right"/>
 
 ---
 
-## 🎯 Featured Projects
+## ⬡ Tech Arsenal
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 AI Chess Arbiter</h3>
-        <div align="center">  
-          <a href="https://aichessarbiter.streamlit.app/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" alt="AI Chess"/>
-          </a>
-          <br><br>
-          <p><strong>RAG-powered chess chatbot with Groq API & LangChain</strong></p>
-          <a href="https://aichessarbiter.streamlit.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-00D4AA?style=for-the-badge&logo=streamlit&logoColor=white"/>
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🚀 Mars Orbital Image Classification</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-4d6d-8d15-3c33c2d4e636.gif" width="400" alt="Mars AI"/>
-          </a>
-          <br><br>
-          <p><strong>Hybrid model achieving 71.43% accuracy on Mars imagery</strong></p>
-          <img src="https://img.shields.io/badge/Research_Paper-In_Progress-FFA500?style=for-the-badge&logo=academia&logoColor=white"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔒 5G Network Security</h3>
-        <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="5G Security"/>
-          </a>
-          <br><br>
-          <p><strong>Deep learning anomaly detection with RAG + Llama 2</strong></p>
-          <img src="https://img.shields.io/badge/DATASET'24-Hackathon-FF6B6B?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">♟️ Vibe with Chess</h3>
-        <div align="center">
-          <a href="https://vibewithchess.com/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/213760705-c8b0632b-7fdb-4a0c-a176-7e7867b93c09.gif" width="400" alt="Chess Platform"/>
-          </a>
-          <br><br>
-          <p><strong>Complete chess platform combining strategy with technology</strong></p>
-          <a href="https://vibewithchess.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Visit_Site-FFD700?style=for-the-badge&logo=chess.com&logoColor=black"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+### 🧠 &nbsp; AI / ML / DL
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-0D1117?style=flat-square&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-0D1117?style=flat-square&logoColor=1C3C3C)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
+
+### 🏗️ &nbsp; Data Engineering
+![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=flat-square&logo=databricks&logoColor=FF3621)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=flat-square&logo=googlebigquery&logoColor=4285F4)
+![dbt](https://img.shields.io/badge/dbt-0D1117?style=flat-square&logo=dbt&logoColor=FF694B)
+![Hadoop](https://img.shields.io/badge/Hadoop-0D1117?style=flat-square&logo=apachehadoop&logoColor=66CCFF)
+![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+
+### 📊 &nbsp; Analytics & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=2C2D72)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=777BB4)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=flat-square&logo=tableau&logoColor=E97627)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=python&logoColor=11557c)
+
+### ☁️ &nbsp; Cloud & DevOps
+![GCP](https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2CA5E0)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white)
+
+### 🗄️ &nbsp; Databases
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=4EA94B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=316192)
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## ⬡ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 &nbsp; Zero AI — Synthetic Media Detector
+> **Latest Project · 2026**
+
+Engineered a **lightweight hybrid architecture** using a customized **SigLIP 2 vision encoder** to classify and block AI-generated images in real time.
+
+- 🎯 **96.6% classification accuracy**
+- ⚡ **142ms inference latency**
+- 🚀 **36.7× faster** than commercial baselines
+
+`PyTorch` `SigLIP 2` `HuggingFace` `Vision-Language Model`
+
+[![Live Demo](https://img.shields.io/badge/🤗_Live_Demo-FFD21E?style=flat-square)](https://huggingface.co/spaces/Arunmass/AI_Image_Detector)
+
+</td>
+<td width="50%" valign="top">
+
+### ♟️ &nbsp; AI Chess Arbiter
+> **RAG-Powered Chess Intelligence**
+
+Built a **RAG-powered chess chatbot** using Groq API and LangChain that answers rules queries, analyzes positions, and assists arbiters in real time.
+
+- 🦜 LangChain + FAISS retrieval pipeline
+- 🔍 Deployed on Streamlit Cloud
+- ♟️ Chess knowledge base from official FIDE docs
+
+`LangChain` `Groq API` `RAG` `Streamlit` `FAISS`
+
+[![Live Demo](https://img.shields.io/badge/◈_Live_Demo-00FFC8?style=flat-square)](https://aichessarbiter.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 &nbsp; Mars Orbital Image Classification
+> **International Conference Paper · 2024–2025**
+
+Developed a **hybrid deep learning model** for classifying Mars orbital surface imagery, with results published at an **international conference**.
+
+- 🎯 **82% classification accuracy**
+- 🔬 Addressed severe class imbalance
+- 🌐 Flask web app deployed on Hugging Face Spaces
+
+`Python` `TensorFlow` `Flask` `Computer Vision` `HuggingFace`
+
+[![HuggingFace](https://img.shields.io/badge/🤗_Try_it-FFD21E?style=flat-square)](https://huggingface.co/spaces/Arunmass/mars-orbital-classification)
+![Conference](https://img.shields.io/badge/📄_Int'l_Conference-Published-00FFC8?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 &nbsp; Stack Overflow Trend Analysis
+> **Data Engineering Pipeline · 2025**
+
+Orchestrated a **serverless ELT pipeline** extracting **5 million rows** from BigQuery Public Datasets, transforming via dbt into a Star Schema.
+
+- 🏗️ dbt + BigQuery + Star Schema design
+- 📈 Power BI reporting layer — 3-year trend tracking
+- ⚙️ Fully automated serverless architecture
+
+`dbt` `BigQuery` `GCP` `SQL` `Power BI` `Data Modeling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 &nbsp; 5G Network Security Anomaly Detection
+> **Hackathon Project — DATASET'24**
+
+ML system using **gradient boosting** to detect 5G network anomalies, with a full **RAG pipeline** for generating mitigation strategies.
+
+- 🎯 **98% Recall** on anomaly detection
+- 🤖 Llama 3 + FAISS RAG integration
+- 📊 Real-time Streamlit dashboard + MongoDB
+
+`Python` `Scikit-Learn` `Llama 3` `RAG` `MongoDB` `Streamlit`
+
+![Hackathon](https://img.shields.io/badge/🏅_DATASET'24-Top_Finish-FF6B6B?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### ♟️ &nbsp; Vibe with Chess
+> **Full Platform · Live**
+
+A complete chess platform blending **strategy with technology** — articles, tools, and community for chess enthusiasts.
+
+- ♟️ Founded & independently built
+- 📝 Strategy content + interactive tools
+- 🌐 Fully live and growing community
+
+`HTML` `CSS` `JavaScript` `Flask`
+
+[![Visit Site](https://img.shields.io/badge/◈_Visit_Site-FFD700?style=flat-square)](https://vibewithchess.com/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⬡ GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arunkumarm-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarm-git&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=arunkumarm-git&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFC8&icon_color=00FFC8"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarm-git&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFC8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumarm-git&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arunkumarm-git&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=arunkumarm-git&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FFC8&fire=FF6B6B&currStreakLabel=00FFC8" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## ⬡ Achievements & Certifications
 
 <div align="center">
-  
-### 🥇 Awards & Recognition
-![Chess](https://img.shields.io/badge/🏆_National_Silver_Medalist-SGFI_Chess_2019-FFD700?style=for-the-badge)
-![District Champion](https://img.shields.io/badge/🏅_Chennai_District_Champion-Chess_2019-FF6B6B?style=for-the-badge)
-![Kaggle](https://img.shields.io/badge/📊_Top_18%25-Kaggle_ML_Tournament-20BEFF?style=for-the-badge)
-![HackerRank](https://img.shields.io/badge/🥇_SQL_Gold_Badge-Top_10%25_HackerRank-2EC866?style=for-the-badge)
 
-### 📜 Certifications
-![Google](https://img.shields.io/badge/Google_Advanced_Data_Analytics-Coursera-4285F4?style=for-the-badge&logo=google)
-![TCS](https://img.shields.io/badge/Machine_Learning_PRO-TCS_iON_NPT-0052CC?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative_AI_with_LLMs-Coursera-4285F4?style=for-the-badge&logo=coursera)
-![SQL](https://img.shields.io/badge/SQL_Advanced-HackerRank-2EC866?style=for-the-badge&logo=hackerrank)
+### 🏆 &nbsp; Awards
 
-</div>
+| Achievement | Detail | Year |
+|---|---|---|
+| 🥈 National Silver Medalist | SGFI Chess — Tamil Nadu Team | 2019 |
+| 🏅 Chennai District Chess Champion | Tamil Nadu | 2019 |
+| ☁️ Top 5% — Cloud Computing | NPTEL | 2025 |
+| 🥇 SQL Gold Badge | HackerRank — Top 10% | 2023 |
+| 📊 Top 18% | Kaggle ML Tournament | — |
+| 📄 International Conference | Mars Orbital Image Classification | 2025 |
 
-<div align="center">
-  <a href="https://linkedin.com/in/arun-kumar--m" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:marunkumar.datascientist@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://kaggle.com/arun_mass" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://instagram.com/_iamarunkumar_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/arunkumar___m" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.leetcode.com/arun_mass" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+### 📜 &nbsp; Certifications
+
+![Google](https://img.shields.io/badge/Google_Advanced_Data_Analytics-Coursera-4285F4?style=flat-square&logo=google)
+![GenAI](https://img.shields.io/badge/Generative_AI_with_LLMs-Coursera-4285F4?style=flat-square&logo=coursera)
+![TCS](https://img.shields.io/badge/Machine_Learning_PRO-TCS_iON_NPT-0052CC?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL_Advanced-HackerRank-2EC866?style=flat-square&logo=hackerrank)
+
 </div>
 
 ---
 
-## 💡 Fun Facts
-
-- 🎮 **Chess Grandmaster mindset** - National Silver Medalist who combines strategic thinking with algorithmic problem-solving
-- 🚀 **Mars Explorer** - Currently working on Mars orbital image classification with 71.43% accuracy
-- 🛡️ **Cybersecurity Enthusiast** - Built 5G network anomaly detection systems during hackathons
-- 🧠 Currently exploring the fascinating world of Generative Adversarial Networks and RAG systems
-- ☁️ Building scalable ML solutions on AWS cloud infrastructure
-- 🔍 Always excited to collaborate on innovative AI projects that push boundaries
-- 📈 Believer in data-driven decision making and continuous learning
-- 🏆 **Top performer** - Consistently ranking in top percentiles across competitions and certifications
-
----
+## ⬡ Connect
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arunkumarm-git&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views"/>
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Data Science"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arun-kumar--m)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marunkumar.datascientist@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=00FFC8)](https://arunkumarm-git.github.io/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/arun_mass)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/arunkumar___m)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/arun_mass)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_iamarunkumar_)
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>⭐ "Data is the new oil, but insights are the refined fuel that drives innovation" ⭐</h3>
+  <img src="https://komarev.com/ghpvc/?username=arunkumarm-git&label=Profile+Views&color=00FFC8&style=flat-square" alt="Profile Views"/>
+  <br/><br/>
+  <sub><i>"Data is the new oil — but engineering is the refinery."</i></sub>
 </div>
