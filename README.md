@@ -25,7 +25,7 @@ class ArunKumar:
     def __init__(self):
         self.name        = "Arun Kumar M"
         self.role        = "Data Scientist & AI/Data Engineer"
-        self.education   = "M.Sc. Data Science @ VIT Chennai (CGPA: 8.73)"
+        self.education   = "M.Sc. Data Science @ VIT Chennai (CGPA: 8.89)"
         self.location    = "Chennai, India 🇮🇳"
         self.expertise   = [
             "LLMs & RAG Systems",
